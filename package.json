@@ -1,0 +1,7 @@
+{
+  "name": "vxr-ai-claud",
+  "version": "1.0.0",
+  "description": "Edge-ai on Vercel",
+  "private": true,
+  "license": "MIT"
+}
